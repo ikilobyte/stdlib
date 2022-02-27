@@ -7,7 +7,7 @@
 package cpu_test
 
 import (
-	. "github.com/ikilobyte/stdlib/internal/cpu"
+	. "internal/cpu"
 	"os"
 	"runtime"
 	"testing"

@@ -13,7 +13,7 @@ package testenv
 import (
 	"errors"
 	"flag"
-	"github.com/ikilobyte/stdlib/internal/cfg"
+	"internal/cfg"
 	"os"
 	"os/exec"
 	"path/filepath"
